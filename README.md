@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - [Github](https://github.com/ikennarichard/faq-accordion-card)
-- [Live](https://your-live-site-url.com)
+- [Live](https://ikennarichard.github.io/faq-accordion-card/)
 
 ## My process
 
