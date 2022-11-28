@@ -202,7 +202,7 @@ input[type='checkbox'] + .question span {
         max-width: 800px;
         overflow: hidden;
         position: relative;
-        height: 68vh;
+        height: 90vh;
         padding: 0;
         padding-block-end: 30em;
         /* justify-items: center; */
@@ -228,7 +228,7 @@ input[type='checkbox'] + .question span {
 
     .desktop-box {
         display: block;
-        transform: translate(-240%, 180%);
+        transform: translate(-240%, 125%);
         width: 14em;
         z-index: 1;
     }
@@ -258,7 +258,7 @@ input[type='checkbox'] + .question span {
 
     .right-side {
         /* border: 1px dotted; */
-        padding: 0 9em 2em 0;
+        padding: 0 9em 0 0;
     }
 }
 
@@ -330,12 +330,6 @@ input[type='checkbox'] + .question span {
 
     .illustration.bg-mobile {
         display: none;
-    }
-
-
-    .right-side {
-        /* border: 1px dotted; */
-        padding: 0 9em 2em 0;
     }
 }
 
