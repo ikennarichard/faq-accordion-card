@@ -53,6 +53,8 @@ body {
     max-width: 500px;
     position: relative;
     border-radius: 2em;
+    box-shadow: 0.2px 0px 20px 0.2px var(--very-dark-desaturated-blue);
+      
 }
 
 
