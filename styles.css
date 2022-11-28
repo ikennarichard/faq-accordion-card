@@ -278,7 +278,7 @@ input[type='checkbox'] + .question span {
         border-radius: 2.5em;
         display: grid;
         grid-template-columns:1fr 1fr;
-        max-width: 800px;
+        max-width: 900px;
         overflow: hidden;
         position: relative;
         height: 70vh;
